@@ -1,0 +1,1 @@
+FLAG = 'flag{http://aes.cryptohack.org/triple_des/}'

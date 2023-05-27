@@ -1,0 +1,1 @@
+FLAG = b'Curious{ECB_1s_re4lly_w3ak_QQ}'

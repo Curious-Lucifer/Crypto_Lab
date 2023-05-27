@@ -1,0 +1,1 @@
+FLAG = 'Curious{Ju5t_a_3asy_LEA.^^}'
