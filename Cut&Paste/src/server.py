@@ -27,7 +27,7 @@ def login():
     if 'admin' in user:
         sys.exit()
     data = {'user': user, 'admin': '0'}
-    token = encrypt(json.dumps(data))
+    token = encrypt(json.dumps(data).encode())
     print(f'token : {token.hex()}')
 
 def verify():
