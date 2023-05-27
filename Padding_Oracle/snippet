@@ -1,9 +1,9 @@
 #!/bin/bash
 
 CATEGORY="Crypto";
-CHAL="LEA";
-OUTPORT=10005;
-INPORT=10005;
+CHAL="Padding Oracle";
+OUTPORT=10009;
+INPORT=10009;
 
 if [[ $# == 0 ]]; then
     echo "========= $CATEGORY : $CHAL ========="
